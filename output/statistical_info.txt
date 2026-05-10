@@ -1,0 +1,4 @@
+Dataset Statistics
+Total Sales Records: 1695651
+Total Units Sold: 5210256
+Average Units Sold per record: 3.07

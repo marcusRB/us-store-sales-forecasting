@@ -1,0 +1,42 @@
+{
+  "run_timestamp": "20260510_115912",
+  "metrics": {
+    "run_timestamp": "20260510_115912",
+    "train_horizon_end": "2026-01-31",
+    "test_horizon_start": "2026-02-01",
+    "test_horizon_end": "2026-04-30",
+    "coverage_90_interval": 0.9918,
+    "masked_rows": 50812,
+    "test_rows": 203035,
+    "forecast_count": 203035,
+    "forecast_actual_sum": 462347.0,
+    "forecast_predicted_sum": 539180.0261,
+    "forecast_mae": 1.4773,
+    "forecast_rmse": 2.0673,
+    "forecast_bias": 0.3784,
+    "forecast_mbe": 76833.0261,
+    "forecast_wape": 0.6487,
+    "forecast_smape": 0.9231,
+    "forecast_mape": 0.499,
+    "forecast_r2": 0.5516,
+    "interpolation_count": 50812,
+    "interpolation_actual_sum": 117515.0,
+    "interpolation_predicted_sum": 127793.8533,
+    "interpolation_mae": 1.4689,
+    "interpolation_rmse": 2.0904,
+    "interpolation_bias": 0.2023,
+    "interpolation_mbe": 10278.8533,
+    "interpolation_wape": 0.6351,
+    "interpolation_smape": 0.9213,
+    "interpolation_mape": 0.478,
+    "interpolation_r2": 0.5594
+  },
+  "grouped_tables": [
+    "forecast_metrics_by_category_product",
+    "forecast_metrics_by_store",
+    "forecast_metrics_by_store_product",
+    "interpolation_metrics_by_category_product",
+    "interpolation_metrics_by_store",
+    "interpolation_metrics_by_store_product"
+  ]
+}
